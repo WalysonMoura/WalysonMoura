@@ -2,7 +2,7 @@
 
  <img src="https://i.ibb.co/fSZFD0g/wg.gif">
 
-##  <img height="40" src=https://www.icegif.com/wp-content/uploads/naruto-icegif-2.gif>Estatísticas do Github 
+##  <img height="40" src=https://www.icegif.com/wp-content/uploads/naruto-icegif-2.gif>Estatísticas do Github
 
 <div align="center">
   <a href="beacons.ai/walyson">
@@ -14,7 +14,11 @@
 
 - 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS
 
-<div style="display: inline_block"><br>
+- ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
+
+- 🦊  Fã do anime Naruto
+
+<br>
 
  ## Habilidades 🚀
 <p align="center">
@@ -27,6 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
+<br>
   
 ## Contato :iphone:
 
@@ -46,6 +51,7 @@
 
  <p align="center"> 
 
+<br>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
@@ -62,3 +68,9 @@
   ![Snake animation](https://github.com/WalysonMoura/WalysonMoura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ ##
+
+<br>
+
+<img src=https://1.bp.blogspot.com/-fGgXlJc6cV8/WNKZYTpparI/AAAAAAAAZcA/cbmACUfpT7gnvMqtKibvNIbednszjAupACLcB/s1600/Mini%2BGifs%2BNaruto%2B3.gif>
