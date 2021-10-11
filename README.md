@@ -12,7 +12,7 @@
 
 ## Sobre mim 👨‍💻 
 
-- 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS
+- 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS.
 
 - ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
 
@@ -71,6 +71,3 @@
 
  ##
 
-<br>
-
-<img src=https://1.bp.blogspot.com/-fGgXlJc6cV8/WNKZYTpparI/AAAAAAAAZcA/cbmACUfpT7gnvMqtKibvNIbednszjAupACLcB/s1600/Mini%2BGifs%2BNaruto%2B3.gif>
