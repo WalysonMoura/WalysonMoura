@@ -1,28 +1,31 @@
 # Fala galera ,eu sou o Walyson <img height="30" width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-<P align="center">
+<p align="center">
  <img src="https://i.ibb.co/fSZFD0g/wg.gif">
-</P>
+</p>
 
 ##  <img height="40" src=https://www.icegif.com/wp-content/uploads/naruto-icegif-2.gif>Estatísticas do Github
 
 <div align="center">
+
   <a href="beacons.ai/walyson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalysonMoura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalysonMoura&layout=compact&langs_count=7&theme=algolia"/>
+
 </div>
 
 ## Sobre mim 👨‍💻 
 
-<div style="display: inline_block">
-
-<img align="right" width="150" height="150" style="border-radius:30px;" src="https://i.ibb.co/FXvj4NG/giphy.gif" />>
+ <div style="display: inline_block">
 
 - 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS.
 
 - ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
 
 - 🦊  Fã do anime Naruto
+
+<img align="right" width="150" height="150" style="border-radius:30px;" src="https://i.ibb.co/FXvj4NG/giphy.gif"/>
+
 
 </div>
 
