@@ -1,6 +1,8 @@
 # Fala galera ,eu sou o Walyson <img height="30" width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
+<P align="center">
  <img src="https://i.ibb.co/fSZFD0g/wg.gif">
+</P>
 
 ##  <img height="40" src=https://www.icegif.com/wp-content/uploads/naruto-icegif-2.gif>Estatísticas do Github
 
@@ -12,11 +14,17 @@
 
 ## Sobre mim 👨‍💻 
 
+<div style="display: inline_block">
+
+<img align="right" width="150" height="150" style="border-radius:30px;" src="https://i.ibb.co/FXvj4NG/giphy.gif" />>
+
 - 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS.
 
 - ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
 
 - 🦊  Fã do anime Naruto
+
+</div>
 
 <br>
 
