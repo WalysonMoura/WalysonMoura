@@ -16,16 +16,16 @@
 
 ## Sobre mim 👨‍💻 
 
- <div style="display: inline_block">
+
+<div style="display: inline_block">
 
 - 🌱 Atualmente estou aprendendo  PHP, Banco de dados relacional e aperfeiçoando HTML e CSS.
 
 - ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
 
-- 🦊  Fã do anime Naruto
-
-<img align="right" width="150" height="150" style="border-radius:30px;" src="https://i.ibb.co/FXvj4NG/giphy.gif"/>
-
+- 🦊  Fã do anime Naruto <br>
+     <img align="right" width="150" height="150" style="border-radius:30px;" src="https://i.ibb.co/FXvj4NG/giphy.gif"/>
+     <em>"Se você não gosta do seu destino, não aceite.Em vez disso, tenha coragem de mudá-lo do jeito que você quer que seja" - Naruto Uzumaki </em>
 
 </div>
 
