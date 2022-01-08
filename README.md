@@ -1,4 +1,5 @@
-# Fala galera ,eu sou o Walyson <img height="30" width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&vCenter=true&lines=Fala+galera!+;Bem+vindo(a)%F0%9F%91%8B;Eu+sou+Walyson+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
  <img src="https://i.ibb.co/fSZFD0g/wg.gif">
@@ -15,7 +16,6 @@
 </div>
 
 ## Sobre mim 👨‍💻 
-
 
 <div style="display: inline_block">
 
