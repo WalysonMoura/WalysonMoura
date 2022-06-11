@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&vCenter=true&lines=Fala+galera!+;Bem+vindo(a)%F0%9F%91%8B;Eu+sou+Walyson+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
@@ -32,24 +31,45 @@
 </p>
 
 </div>
-
 <br>
 
- ## Habilidades 🚀
-<p align="center">
-   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-    
-<br>
+## <b>Habilidades  🚀</b>:
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![HTML](./img/html.svg) &nbsp;
+  ![CSS](./img/css.svg) &nbsp;
+  ![JS](./img/js.svg) &nbsp;
+   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  ![MySQL](./img/mysql.svg) &nbsp;
+  ![VSCode](./img/vscode.svg) &nbsp;
+
+</div>
+<br><br><br>
+
+
+## <b>Estou Estudando: 📚</b>
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![NodeJS](./img/nodejs.svg) &nbsp;
+  ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![Git](./img/git.svg) &nbsp;
+  ![Github](./img/github.svg) &nbsp;
+
+
+</div>
+<br><br><br>
+
+
+## <b>Tenho Interesse: ⚡</b>
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![TS](./img/ts.svg) &nbsp;
+  ![SASS](./img/sass.svg) &nbsp;
+  ![Bootstrap](./img/bootstrap.svg) &nbsp;
+  ![Docker](./img/docker.svg) &nbsp;
+  ![Terminal](./img/terminal.svg) &nbsp;
+
+</div>
   
 ## Contato :iphone:
 
@@ -88,4 +108,9 @@
 </div>
 
  ##
+
+
+
+
+
 
