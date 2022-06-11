@@ -44,7 +44,7 @@
   ![VSCode](./img/vscode.svg) &nbsp;
 
 </div>
-<br><br><br>
+
 
 
 ## <b>Estou Estudando: 📚</b>
@@ -57,7 +57,7 @@
 
 
 </div>
-<br><br><br>
+ 
 
 
 ## <b>Tenho Interesse: ⚡</b>
@@ -70,7 +70,8 @@
   ![Terminal](./img/terminal.svg) &nbsp;
 
 </div>
-  
+  <br>
+ 
 ## Contato :iphone:
 
 <p align="center">
