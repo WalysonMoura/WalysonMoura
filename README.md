@@ -39,7 +39,7 @@
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
-  ![JS]( height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg") &nbsp;
+  ![php](./img/php.svg) &nbsp;
   
   ![MySQL](./img/mysql.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
