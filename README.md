@@ -39,6 +39,7 @@
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
+  ![JS](./img/php.svg) &nbsp;
   ![xd](./img/xd.svg) &nbsp;
   
   ![MySQL](./img/mysql.svg) &nbsp;
