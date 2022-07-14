@@ -39,6 +39,7 @@
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
+  ![JS](./img/php.svg) &nbsp;
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   ![MySQL](./img/mysql.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
