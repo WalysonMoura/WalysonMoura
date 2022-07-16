@@ -56,7 +56,7 @@
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
-
+  ![firebase](./img/fire.svg) &nbsp;
 
 </div>
  
