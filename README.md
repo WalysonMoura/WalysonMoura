@@ -39,8 +39,7 @@
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
-  ![JS](./img/php.svg) &nbsp;
-  ![xd](./img/xd.svg) &nbsp;
+ 
   
   ![MySQL](./img/mysql.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
@@ -56,7 +55,7 @@
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
-  ![firebase](./img/fire.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp;
 
 </div>
  
@@ -65,7 +64,7 @@
 ## <b>Tenho Interesse: ⚡</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![TS](./img/ts.svg) &nbsp;
+
   ![SASS](./img/sass.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
