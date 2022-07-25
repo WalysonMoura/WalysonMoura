@@ -39,10 +39,11 @@
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
- 
-  
   ![MySQL](./img/mysql.svg) &nbsp;
+
   ![VSCode](./img/vscode.svg) &nbsp;
+  
+  
 
 </div>
 
