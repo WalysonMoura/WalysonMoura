@@ -49,14 +49,14 @@
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
   ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![next](./img/next.svg) &nbsp;
-  ![TS](./img/ts.svg) &nbsp;
   ![NodeJS](./img/nodejs.svg) &nbsp;
-  ![express](./img/express.svg) &nbsp;
-  ![npm](./img/npm.svg) &nbsp;
-  ![seque](./img/segue.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
+  ![express](./img/express.svg) &nbsp;
+  ![next](./img/next.svg) &nbsp;
+  ![npm](./img/npm.svg) &nbsp;
+  ![seque](./img/segue.svg) &nbsp;
   ![fire](./img/fire.svg) &nbsp;
  
 </div>
