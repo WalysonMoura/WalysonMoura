@@ -54,7 +54,7 @@
   ![NodeJS](./img/nodejs.svg) &nbsp;
   ![express](./img/express.svg) &nbsp;
   ![npm](./img/npm.svg) &nbsp;
-  ![seque](./img/seque.svg) &nbsp;
+  ![seque](./img/segue.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
   ![fire](./img/fire.svg) &nbsp;
