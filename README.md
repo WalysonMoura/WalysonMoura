@@ -40,11 +40,7 @@
   ![CSS](./img/css.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
   ![MySQL](./img/mysql.svg) &nbsp;
-
   ![VSCode](./img/vscode.svg) &nbsp;
-  
-  
-
 </div>
 
 
@@ -52,12 +48,13 @@
 ## <b>Estou Estudando: 📚</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![NodeJS](./img/nodejs.svg) &nbsp;
   ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp;
+  ![NodeJS](./img/nodejs.svg) &nbsp;
+  ![fire](./img/fire.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
-  ![TS](./img/ts.svg) &nbsp;
-
+ 
 </div>
  
 
