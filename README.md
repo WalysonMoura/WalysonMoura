@@ -49,11 +49,15 @@
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
   ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![next](./img/next.svg) &nbsp;
   ![TS](./img/ts.svg) &nbsp;
   ![NodeJS](./img/nodejs.svg) &nbsp;
-  ![fire](./img/fire.svg) &nbsp;
+  ![express](./img/express.svg) &nbsp;
+  ![npm](./img/npm.svg) &nbsp;
+  ![seque](./img/seque.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
+  ![fire](./img/fire.svg) &nbsp;
  
 </div>
  
@@ -62,9 +66,11 @@
 ## <b>Tenho Interesse: ⚡</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-
   ![SASS](./img/sass.svg) &nbsp;
-  ![Bootstrap](./img/bootstrap.svg) &nbsp;
+  ![taw](./img/taw.svg) &nbsp;
+  ![redis](./img/redis.svg) &nbsp;
+  ![jest](./img/jest.svg) &nbsp;
+  ![graul](./img/graul.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
   ![Terminal](./img/terminal.svg) &nbsp;
 
