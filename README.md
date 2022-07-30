@@ -20,7 +20,7 @@
 
 <p align="justify">
 
-- 🌱 Atualmente estou aprendendo javascript, PHP, Banco de dados relacional e aperfeiçoando HTML e CSS.
+- 🌱 Atualmente estou aprendendo React, Next.js, Node.js ,Banco de dado e aperfeiçoando HTML e CSS.
 
 - ⚡ Estou cursando o ensino médio e futuramente pretendo ingressar no curso de engenharia de software para cada vez mais ampliar o meu conhecimento na área da programação e alcançar o sonho de ser um fullstack developer.
 
