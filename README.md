@@ -53,8 +53,9 @@
   ![TS](./img/ts.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
-  ![express](./img/express.svg) &nbsp;
+  
   ![next](./img/next.svg) &nbsp;
+  ![express](./img/express.svg) &nbsp;
   ![npm](./img/npm.svg) &nbsp;
   ![seque](./img/segue.svg) &nbsp;
   ![fire](./img/fire.svg) &nbsp;
