@@ -55,6 +55,7 @@
   ![Github](./img/github.svg) &nbsp;
   
   ![next](./img/next.svg) &nbsp;
+  ![styled](./img/styled.svg) &nbsp;
   ![express](./img/express.svg) &nbsp;
   ![npm](./img/npm.svg) &nbsp;
   ![seque](./img/segue.svg) &nbsp;
@@ -67,11 +68,12 @@
 ## <b>Tenho Interesse: ⚡</b>
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
-  ![SASS](./img/sass.svg) &nbsp;
   ![taw](./img/taw.svg) &nbsp;
   ![redis](./img/redis.svg) &nbsp;
   ![jest](./img/jest.svg) &nbsp;
   ![graul](./img/graul.svg) &nbsp;
+  
+  ![SASS](./img/sass.svg) &nbsp;
   ![Docker](./img/docker.svg) &nbsp;
   ![Terminal](./img/terminal.svg) &nbsp;
 
