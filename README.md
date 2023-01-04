@@ -50,9 +50,12 @@
 
   ![ReactJS](./img/reactjs.svg) &nbsp;
   ![NodeJS](./img/nodejs.svg) &nbsp;
-  ![TS](./img/ts.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp; 
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
+ 
+  ![Docker](./img/docker.svg) &nbsp;
+  ![Terminal](./img/terminal.svg) &nbsp;
   
   ![next](./img/next.svg) &nbsp;
   ![styled](./img/styled.svg) &nbsp;
@@ -60,6 +63,8 @@
   ![npm](./img/npm.svg) &nbsp;
   ![seque](./img/segue.svg) &nbsp;
   ![fire](./img/fire.svg) &nbsp;
+ 
+  
  
 </div>
  
@@ -72,10 +77,8 @@
   ![redis](./img/redis.svg) &nbsp;
   ![jest](./img/jest.svg) &nbsp;
   ![graul](./img/graul.svg) &nbsp;
-  
   ![SASS](./img/sass.svg) &nbsp;
-  ![Docker](./img/docker.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
+  
 
 </div>
   <br>
