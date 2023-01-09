@@ -65,6 +65,7 @@
   ![fire](./img/fire.svg) &nbsp;
  
   
+  ![jest](./img/jest.svg) &nbsp;
  
 </div>
  
@@ -75,7 +76,6 @@
 
   ![taw](./img/taw.svg) &nbsp;
   ![redis](./img/redis.svg) &nbsp;
-  ![jest](./img/jest.svg) &nbsp;
   ![graul](./img/graul.svg) &nbsp;
   ![SASS](./img/sass.svg) &nbsp;
   
@@ -94,7 +94,7 @@
     <a href="https://www.linkedin.com/mwlite/in/walyson-moura-302562218">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/mwlite/in/walyson-moura-302562218"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/WalysonMoura222/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/walyson_moura222/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://m.facebook.com/profile.php?id=100071180829990&refsrc=deprecated#_=_" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -114,9 +114,8 @@
 
 <div>
 
-
-  ![Snake animation](https://github.com/WalysonMoura/WalysonMoura/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/WalysonMoura/WalysonMoura/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
 
  ##
